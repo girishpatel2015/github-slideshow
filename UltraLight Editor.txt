@@ -1,0 +1,4 @@
+Ultra light weight editor with integration to Git Source control :  Visual studio code
+Create Ultra Text Editor using HTML
+
+Or Editor from TypeScript execution of Powershellscripts
